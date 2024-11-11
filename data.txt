@@ -1,0 +1,6 @@
+Hello Hadoop
+Hello World
+Hadoop MapReduce
+MapReduce is powerful
+Hello MapReduce
+
